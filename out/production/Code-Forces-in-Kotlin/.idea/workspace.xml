@@ -5,37 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a5d22fc-cc69-4683-9b2f-eef6552d972b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/level_a/uva/UVA_10110.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_a/CF112_D2_A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/level_a/codeforces/CF112_D2_A.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_a/CF228_D2_A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/level_a/codeforces/CF228_D2_A.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_a/CF231_D2_A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/level_a/codeforces/CF231_D2_A.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_a/CF236_D2_A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/level_a/codeforces/CF236_D2_A.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_a/CF263_D2_A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/level_a/codeforces/CF263_D2_A.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_a/CF265_D2_A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/level_a/codeforces/CF265_D2_A.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_a/CF266_D2_A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/level_a/codeforces/CF266_D2_A.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_a/CF268_D2_A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/level_a/codeforces/CF268_D2_A.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_a/CF294_D2_A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/level_a/codeforces/CF294_D2_A.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_a/CF339_D2_A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/level_a/codeforces/CF339_D2_A.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_a/CF344_D2_A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/level_a/codeforces/CF344_D2_A.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_a/CF381_D2_A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/level_a/codeforces/CF381_D2_A.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_a/CF405_D2_A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/level_a/codeforces/CF405_D2_A.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_a/CF427_D2_A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/level_a/codeforces/CF427_D2_A.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_a/CF431_D2_A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/level_a/codeforces/CF431_D2_A.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_a/CF443_D2_A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/level_a/codeforces/CF443_D2_A.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_a/CF490_D2_A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/level_a/codeforces/CF490_D2_A.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_a/CF59_D2_A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/level_a/codeforces/CF59_D2_A.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_a/CF677_D2_A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/level_a/codeforces/CF677_D2_A.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_a/CF686_D2_A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/level_a/codeforces/CF686_D2_A.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_a/CF709_D2_A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/level_a/codeforces/CF709_D2_A.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_a/CF71_D2_A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/level_a/codeforces/CF71_D2_A.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_a/CF731_D2_A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/level_a/codeforces/CF731_D2_A.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_a/CF732_D2_A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/level_a/codeforces/CF732_D2_A.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_a/CF734_D2_A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/level_a/codeforces/CF734_D2_A.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_a/CF770_D2_A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/level_a/codeforces/CF770_D2_A.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_a/CF791_D2_A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/level_a/codeforces/CF791_D2_A.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_a/CF799_D2_A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/level_a/codeforces/CF799_D2_A.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_a/CF9_D2_A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/level_a/codeforces/CF9_D2_A.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level_a/codeforces/CF136_D2_A.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,18 +26,23 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
   <component name="ProjectId" id="2NCVwQXm3j3LoGgZmxvsWMq9uHA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/a.gharseldin/Documents/GitHub/Code-Forces-in-Kotlin"
   }
-}</component>
-  <component name="RunManager" selected="Kotlin.CF770_D2_AKt">
+}]]></component>
+  <component name="RunManager" selected="Kotlin.UVA_10106Kt">
     <configuration name="CF339_D2_AKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level_a.CF339_D2_AKt" />
       <module name="Code-Forces-in-Kotlin" />
@@ -88,13 +64,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CF71_D2_AKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level_a.CF71_D2_AKt" />
-      <module name="Code-Forces-in-Kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="CF770_D2_AKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level_a.CF770_D2_AKt" />
       <module name="Code-Forces-in-Kotlin" />
@@ -102,13 +71,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UVA_10106Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level_a.uva.UVA_10106Kt" />
+      <module name="Code-Forces-in-Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.UVA_10106Kt" />
         <item itemvalue="Kotlin.CF770_D2_AKt" />
         <item itemvalue="Kotlin.CF490_D2_AKt" />
         <item itemvalue="Kotlin.CF339_D2_AKt" />
         <item itemvalue="Kotlin.CF686_D2_AKt" />
-        <item itemvalue="Kotlin.CF71_D2_AKt" />
       </list>
     </recent_temporary>
   </component>
