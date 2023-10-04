@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a5d22fc-cc69-4683-9b2f-eef6552d972b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/level_a/codeforces/CF127_D2_A.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level_a/codeforces/CF483_D2_A.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level_a/codeforces/CF80_D2_A.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level_a/codeforces/CF270_D2_A.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level_a/codeforces/CF365_D2_A.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level_a/codeforces/CF667_D2_A.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Code-Forces-in-Kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code-Forces-in-Kotlin/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Code-Forces-in-Kotlin/META-INF/Code-Forces-in-Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code-Forces-in-Kotlin/META-INF/Code-Forces-in-Kotlin.kotlin_module" afterDir="false" />
@@ -48,7 +48,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.CF127_D2_AKt">
+  <component name="RunManager" selected="Kotlin.CF270_D2_AKt">
     <configuration name="CF127_D2_AKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level_a.codeforces.CF127_D2_AKt" />
       <module name="Code-Forces-in-Kotlin" />
@@ -56,8 +56,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CF1_D2_AKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level_a.codeforces.CF1_D2_AKt" />
+    <configuration name="CF270_D2_AKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level_a.codeforces.CF270_D2_AKt" />
+      <module name="Code-Forces-in-Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CF365_D2_AKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level_a.codeforces.CF365_D2_AKt" />
       <module name="Code-Forces-in-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,15 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CF785_D2_AKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level_a.codeforces.CF785_D2_AKt" />
-      <module name="Code-Forces-in-Kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CF80_D2_AKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level_a.codeforces.CF80_D2_AKt" />
+    <configuration name="CF667_D2_AKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level_a.codeforces.CF667_D2_AKt" />
       <module name="Code-Forces-in-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.CF270_D2_AKt" />
+        <item itemvalue="Kotlin.CF667_D2_AKt" />
+        <item itemvalue="Kotlin.CF365_D2_AKt" />
         <item itemvalue="Kotlin.CF127_D2_AKt" />
         <item itemvalue="Kotlin.CF483_D2_AKt" />
-        <item itemvalue="Kotlin.CF80_D2_AKt" />
-        <item itemvalue="Kotlin.CF785_D2_AKt" />
-        <item itemvalue="Kotlin.CF1_D2_AKt" />
       </list>
     </recent_temporary>
   </component>
@@ -189,6 +189,11 @@
           <line>6</line>
           <option name="timeStamp" value="38" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/level_a/codeforces/CF667_D2_A.kt</url>
+          <line>8</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-function">
           <url>file://$PROJECT_DIR$/level_a/codeforces/CF404_D2_A.kt</url>
           <line>2</line>
@@ -209,5 +214,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JetRunConfigurationType">
+        <watch expression="waterDecreasesBy" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
