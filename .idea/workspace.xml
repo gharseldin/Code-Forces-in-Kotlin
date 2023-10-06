@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a5d22fc-cc69-4683-9b2f-eef6552d972b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/level_a/codeforces/CF218_D2_A.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level_a/codeforces/CF682_D2_A.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level_a/codeforces/CF225_D2_A.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Code-Forces-in-Kotlin/META-INF/Code-Forces-in-Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code-Forces-in-Kotlin/META-INF/Code-Forces-in-Kotlin.kotlin_module" afterDir="false" />
     </list>
@@ -54,15 +53,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CF270_D2_AKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level_a.codeforces.CF270_D2_AKt" />
+    <configuration name="CF225_D2_AKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level_a.codeforces.CF225_D2_AKt" />
       <module name="Code-Forces-in-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CF365_D2_AKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level_a.codeforces.CF365_D2_AKt" />
+    <configuration name="CF270_D2_AKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level_a.codeforces.CF270_D2_AKt" />
       <module name="Code-Forces-in-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,10 +84,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.CF682_D2_AKt" />
+        <item itemvalue="Kotlin.CF225_D2_AKt" />
         <item itemvalue="Kotlin.CF218_D2_AKt" />
         <item itemvalue="Kotlin.CF270_D2_AKt" />
         <item itemvalue="Kotlin.CF667_D2_AKt" />
-        <item itemvalue="Kotlin.CF365_D2_AKt" />
       </list>
     </recent_temporary>
   </component>
