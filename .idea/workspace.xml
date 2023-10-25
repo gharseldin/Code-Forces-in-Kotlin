@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a5d22fc-cc69-4683-9b2f-eef6552d972b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/level_b/codeforces/CF287_D2_B.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level_b/codeforces/CF227_D2_B.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level_b/codeforces/CF78_D2_B.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level_b/codeforces/CF287_D2_B.kt" beforeDir="false" afterPath="$PROJECT_DIR$/level_b/codeforces/CF287_D2_B.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Code-Forces-in-Kotlin/META-INF/Code-Forces-in-Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code-Forces-in-Kotlin/META-INF/Code-Forces-in-Kotlin.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,15 +51,15 @@
   }
 }</component>
   <component name="RunManager" selected="Kotlin.CF287_D2_BKt">
-    <configuration name="CF102_D2_BKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level_b.codeforces.CF102_D2_BKt" />
+    <configuration name="CF165_D2_BKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level_b.codeforces.CF165_D2_BKt" />
       <module name="Code-Forces-in-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CF165_D2_BKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level_b.codeforces.CF165_D2_BKt" />
+    <configuration name="CF227_D2_BKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level_b.codeforces.CF227_D2_BKt" />
       <module name="Code-Forces-in-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,15 +72,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CF463_D2_BKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level_b.codeforces.CF463_D2_BKt" />
+    <configuration name="CF47_D2_BKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level_b.codeforces.CF47_D2_BKt" />
       <module name="Code-Forces-in-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CF47_D2_BKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level_b.codeforces.CF47_D2_BKt" />
+    <configuration name="CF78_D2_BKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level_b.codeforces.CF78_D2_BKt" />
       <module name="Code-Forces-in-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,10 +89,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.CF287_D2_BKt" />
+        <item itemvalue="Kotlin.CF227_D2_BKt" />
+        <item itemvalue="Kotlin.CF78_D2_BKt" />
         <item itemvalue="Kotlin.CF165_D2_BKt" />
         <item itemvalue="Kotlin.CF47_D2_BKt" />
-        <item itemvalue="Kotlin.CF102_D2_BKt" />
-        <item itemvalue="Kotlin.CF463_D2_BKt" />
       </list>
     </recent_temporary>
   </component>
@@ -248,6 +250,11 @@
           <url>file://$PROJECT_DIR$/level_b/codeforces/CF463_D2_B.kt</url>
           <line>12</line>
           <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/level_b/codeforces/CF287_D2_B.kt</url>
+          <line>14</line>
+          <option name="timeStamp" value="95" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-function">
           <url>file://$PROJECT_DIR$/level_a/codeforces/CF404_D2_A.kt</url>
